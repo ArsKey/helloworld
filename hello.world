@@ -3,4 +3,7 @@ before rebase
 beforecode
 new code main 1
 new code main 2
+
 aftercode
+
+new code feat1 (missing main 2 above)

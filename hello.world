@@ -2,10 +2,10 @@ before rebase
 
 beforecode
 new code main 1
+
 feat code 0
 new code main 2
 
 new code feat1 (missing main 2 above)
 feat code 3
 aftercode
-

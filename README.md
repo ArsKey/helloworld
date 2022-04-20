@@ -9,3 +9,5 @@ and a few more updates
 
 rebased readme
 
+experimental code for stashing
+
